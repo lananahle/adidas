@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.14",
+        "google/analytics-data": "0.13",
+        "google/gax": "^1.36"
+    }
+}
